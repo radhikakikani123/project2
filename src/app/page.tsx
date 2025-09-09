@@ -20,7 +20,7 @@ export default function Home() {
         <Progress value={40}/>
       </div>
       <div>
-        <Textarea placeholder="I am a textarea"/>
+        <Textarea placeholder="I am a textarea write something here"/>
       </div>
       <div>
         <Checkbox/>
